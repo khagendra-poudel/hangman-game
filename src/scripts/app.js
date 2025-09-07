@@ -9,7 +9,7 @@
         { word: "OPTIMIZATION", hint: "Improving performance", category: "GENERAL" },
         { word: "ENCAPSULATION", hint: "OOP principle", category: "CS" },
         { word: "RECURSION", hint: "A function inside itself", category: "CS" },
-        { word: "POLYMORPHISM", hint: "Many forms", category: "CS" },
+        { word: "POLYMORPHISM", hint: "Magit ny forms", category: "CS" },
         { word: "HANGMAN", hint: "The game you are playing", category: "META" },
         { word: "PYTHON", hint: "A programming language and a snake", category: "TECH" },
         { word: "DEBUGGING", hint: "Finding and fixing issues", category: "CS" },
